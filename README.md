@@ -1,4 +1,4 @@
-## SymVote go library
+## SymVote library
 
 ### Introduction
 
